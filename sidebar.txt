@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[saa:home|Door43 (saa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-saa|d43-saa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-saa/archive/master.zip|d43-saa.zip]]
+
+**Recent Changes**
+{{changes>ns = saa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/saa|Ethnologue data]]
+
